@@ -1,4 +1,4 @@
-<img src="BastelPlan0_ESP8266_Rs485_Modul.png" alt="Soyosource Controller by BavarianSuperGuy"/>
+<img src="1.png" alt="Soyosource Controller by BavarianSuperGuy"/>
 
 
 # EspEpeverController mit Webseite 
