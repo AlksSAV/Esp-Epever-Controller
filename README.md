@@ -3,6 +3,7 @@
 
 # EspEpeverController mit Webseite 
 Esp8266 подключен к контроллеру заряда Epever Solar через модуль Rs485 и может считывать с него доступные данные, а также включать и выключать индикатор загрузку.
+Пример работы у меня на канале https://youtu.be/_MVRAqeg47o
 
 Прошивка (firmware_vX.X.X.X.bin") находится в каталоге esplasher.
 
